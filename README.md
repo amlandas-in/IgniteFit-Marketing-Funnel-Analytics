@@ -58,7 +58,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 ## 📊 Dashboards Overview
 ### 1️⃣ Customer Funnel & Platform Engagement Analysis
-****
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/2f9bf4a42165053dd9fffe0e8f00e6e5c2824ed7/assets/customer_funnel_platform_engagement.png)
 
 ### Key focus areas:
 
