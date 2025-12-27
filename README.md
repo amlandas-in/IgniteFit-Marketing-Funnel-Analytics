@@ -35,7 +35,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 6. Final Payment
 
-## 📊 Key Insights
+## 🔍 Key Insights
 
 - Facebook generated the highest number of clicks but showed the largest drop-off at the chat stage, indicating lower lead intent.
 
