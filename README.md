@@ -28,7 +28,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 ## 🔄 Customer Journey Funnel
 
-1. Ad Click
+1. -  Ad Click
 
 2. Chat Initiation
 
