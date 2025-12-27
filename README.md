@@ -49,6 +49,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 ## 📊 Dashboards Overview
 ### 1️⃣ Customer Funnel & Platform Engagement Analysis
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/cf14768fda2c5a2f14b43593a542cf295c9fa8f8/assets/customer_funnel_platform_engagement.png)
 
 #### Key focus areas:
 
@@ -61,9 +62,9 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Average customer time spent at each funnel stage
 
 ### 2️⃣ Campaign Conversion Effectiveness Overview
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/cf14768fda2c5a2f14b43593a542cf295c9fa8f8/assets/campaign_conversion_effectiveness.png)
 
 #### Key focus areas:
-
 - Funnel conversion rates across campaigns
 
 - CTR, chat, registration, counseling, and payment conversion rates
@@ -71,6 +72,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Overall campaign contribution using a donut chart
 
 ### 3️⃣ Campaign ROI & Profitability Analysis
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/cf14768fda2c5a2f14b43593a542cf295c9fa8f8/assets/campaign_roi_profitability.png)
 
 #### Key focus areas:
 
