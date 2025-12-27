@@ -28,7 +28,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 ## 🔄 Customer Journey Funnel
 
-1. -  Ad Click
+1. Ad Click
 
 2. Chat Initiation
 
@@ -39,3 +39,82 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 5. Counseling Session
 
 6. Final Payment
+
+---
+
+## 📊 Key Insights
+
+- Facebook generated the highest number of clicks but experienced the largest drop-off at the chat stage, indicating lower lead intent.
+
+- Instagram delivered stronger mid-funnel performance, with the highest conversion from chats to webinar registrations.
+
+- Nearly 45% of users dropped off between webinar attendance and counseling, making it the most critical leakage point.
+
+- UPI was the most preferred payment method, led by Google Pay and PhonePe.
+
+- Wednesday showed the highest chat-to-payment conversion rate, making it the most effective day for follow-ups and conversions.
+
+---
+
+## 📊 Dashboards Overview
+### 1️⃣ Customer Funnel & Platform Engagement Analysis
+****
+
+### Key focus areas:
+
+- Stage-wise customer distribution and drop-off rates
+
+- Platform-wise engagement (Clicks vs Chats)
+
+- Day-wise platform chat drop-off rate comparison
+
+- Average customer time spent at each funnel stage
+
+### 2️⃣ Campaign Conversion Effectiveness Overview
+***
+
+### Key focus areas:
+
+- Funnel conversion rates across campaigns
+
+- CTR, chat, registration, counseling, and payment conversion rates
+
+- Overall campaign contribution using a donut chart
+
+### 3️⃣ Campaign ROI & Profitability Analysis
+***
+
+### Key focus areas:
+
+Ad Spend vs Revenue vs Profit comparison
+
+CPA, ROAS, and ROI analysis by campaign
+
+Identification of the most profitable and cost-efficient campaigns
+
+---
+
+## 🛠 Tools & Techniques Used
+
+- Microsoft Excel (Advanced Dashboarding)
+
+- Data Cleaning & Transformation
+
+- Text Functions and Regex (Payment Data Parsing)
+
+- Funnel and Conversion Rate Calculations
+
+- Marketing Performance Metrics
+
+- KPI Cards and Comparative Visualizations
+
+---
+## 📈 Business Impact
+
+- Identified the highest ROI and most efficient campaigns
+
+- Highlighted critical funnel drop-off points impacting revenue
+
+- Enabled better allocation of ad spend toward high-performing platforms
+
+- Supported data-driven decisions to improve customer conversion and ROI
