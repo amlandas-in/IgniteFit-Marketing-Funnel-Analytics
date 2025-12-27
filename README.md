@@ -1,16 +1,13 @@
 # 🏋️ IgniteFit Marketing Funnel Analytics
-An Excel-based marketing analytics project that analyzes the complete customer journey from ad engagement to final payment, helping evaluate campaign effectiveness, funnel drop-offs, and marketing ROI across YouTube, Facebook, and Instagram.
 
----
+An Excel-based marketing analytics project analyzing the complete customer journey from ad engagement to final payment to evaluate campaign effectiveness, funnel drop-offs, and marketing ROI across YouTube, Facebook, and Instagram.
 
 ## 📌 Project Overview
 
 IgniteFit runs paid marketing campaigns across multiple social platforms to acquire customers.
-This project evaluates the full conversion funnel using campaign, engagement, webinar, counseling, and payment data to understand where users drop off and which platforms and campaigns drive the most value.
+This project evaluates the full conversion funnel using campaign, engagement, webinar, counseling, and payment data to identify where users drop off and which platforms and campaigns generate the most value.
 
 The analysis supports data-driven decisions to optimize ad spend and improve conversion performance.
-
----
 
 ## 🎯 Business Objectives
 
@@ -23,8 +20,6 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Evaluate financial performance using CPA, ROAS, ROI, and Profit
 
 - Identify opportunities to improve conversions and marketing ROI
-
----
 
 ## 🔄 Customer Journey Funnel
 
@@ -40,27 +35,22 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 
 6. Final Payment
 
----
-
 ## 📊 Key Insights
 
-- Facebook generated the highest number of clicks but experienced the largest drop-off at the chat stage, indicating lower lead intent.
+- Facebook generated the highest number of clicks but showed the largest drop-off at the chat stage, indicating lower lead intent.
 
-- Instagram delivered stronger mid-funnel performance, with the highest conversion from chats to webinar registrations.
+- Instagram delivered stronger mid-funnel performance with the highest chat-to-webinar registration conversion.
 
 - Nearly 45% of users dropped off between webinar attendance and counseling, making it the most critical leakage point.
 
 - UPI was the most preferred payment method, led by Google Pay and PhonePe.
 
-- Wednesday showed the highest chat-to-payment conversion rate, making it the most effective day for follow-ups and conversions.
-
----
+- Wednesday recorded the highest chat-to-payment conversion rate, making it the most effective day for follow-ups and conversions.
 
 ## 📊 Dashboards Overview
 ### 1️⃣ Customer Funnel & Platform Engagement Analysis
-![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/2f9bf4a42165053dd9fffe0e8f00e6e5c2824ed7/assets/customer_funnel_platform_engagement.png)
 
-### Key focus areas:
+#### Key focus areas:
 
 - Stage-wise customer distribution and drop-off rates
 
@@ -71,9 +61,8 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Average customer time spent at each funnel stage
 
 ### 2️⃣ Campaign Conversion Effectiveness Overview
-![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/9bff6450c3d62f24825f92358df80fef7a2ad6d1/assets/campaign_conversion_effectiveness.png)
 
-### Key focus areas:
+#### Key focus areas:
 
 - Funnel conversion rates across campaigns
 
@@ -82,17 +71,14 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Overall campaign contribution using a donut chart
 
 ### 3️⃣ Campaign ROI & Profitability Analysis
-![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/cb3a4df2c587ff968899511893364c53909c9fea/assets/campaign_roi_profitability.png)
 
-### Key focus areas:
+#### Key focus areas:
 
-Ad Spend vs Revenue vs Profit comparison
+- Ad Spend vs Revenue vs Profit comparison
 
-CPA, ROAS, and ROI analysis by campaign
+- CPA, ROAS, and ROI analysis by campaign
 
-Identification of the most profitable and cost-efficient campaigns
-
----
+- Identification of the most profitable and cost-efficient campaigns
 
 ## 🛠 Tools & Techniques Used
 
@@ -108,7 +94,6 @@ Identification of the most profitable and cost-efficient campaigns
 
 - KPI Cards and Comparative Visualizations
 
----
 ## 📈 Business Impact
 
 - Identified the highest ROI and most efficient campaigns
