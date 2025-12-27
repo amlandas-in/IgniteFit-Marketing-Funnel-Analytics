@@ -82,7 +82,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Overall campaign contribution using a donut chart
 
 ### 3️⃣ Campaign ROI & Profitability Analysis
-***
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/cb3a4df2c587ff968899511893364c53909c9fea/assets/campaign_roi_profitability.png)
 
 ### Key focus areas:
 
