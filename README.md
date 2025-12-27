@@ -71,7 +71,7 @@ The analysis supports data-driven decisions to optimize ad spend and improve con
 - Average customer time spent at each funnel stage
 
 ### 2️⃣ Campaign Conversion Effectiveness Overview
-***
+![image alt](https://github.com/amlandas-in/IgniteFit-Marketing-Funnel-Analytics/blob/9bff6450c3d62f24825f92358df80fef7a2ad6d1/assets/campaign_conversion_effectiveness.png)
 
 ### Key focus areas:
 
